@@ -1,0 +1,47 @@
+{
+  "name": "auction-front",
+  "version": "0.0.1",
+  "description": "auction-front",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Rentcars.com"
+  ],
+  "author": "Formatura Premiada",
+  "contributors": [
+    {
+      "name": "Paulo Teixeira",
+      "email": "dev.paulocesar@gmail.com"
+    },
+    {
+      "name": "Adriano Vianna",
+      "email": "adriano.vianna@formaturapremiada.com.br"
+    }
+  ],
+  "license": "ISC",
+  "peerDependencies": {
+    "vue": "2.x"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0.0",
+    "babel-loader": "^6.0.0",
+    "babel-plugin-transform-runtime": "^6.0.0",
+    "babel-preset-es2015": "^6.0.0",
+    "babel-preset-stage-2": "^6.0.0",
+    "html-webpack-plugin": "^2.8.1",
+    "vue": "^2.1.8",
+    "vue-hot-reload-api": "^2.0.7",
+    "vue-html-loader": "^1.2.3",
+    "vue-loader": "^10.0.2",
+    "vue-markdown-loader": "^0.6.1",
+    "vue-resource": "^1.0.3",
+    "vue-style-loader": "^1.0.0",
+    "webpack": "^1.12.2",
+    "webpack-dev-middleware": "^1.4.0",
+    "webpack-hot-middleware": "^2.6.0",
+    "webpack-merge": "^0.13.0"
+  }
+}
